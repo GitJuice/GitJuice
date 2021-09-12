@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sahil @GitSpuce
+- 👋 Hi, I’m Sahil @GitSouce
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web development
